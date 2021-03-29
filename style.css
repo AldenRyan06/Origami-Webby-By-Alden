@@ -1,0 +1,36 @@
+
+h1 {
+   
+    color: rgb(212, 31, 31);
+    font-family:'Bradley Hand ITC';
+    font-style: bold;
+    font-size: xx-large;
+  
+}
+
+h2 {
+   
+    color: rgb(186, 53, 247);
+    font-family:'kalam';
+    font-style: bold;
+    font-size: xx-large;
+}
+.heading{
+    background-image: url("bggg.jpg");
+}
+*{
+    border-radius:30px;
+
+}
+.origami{
+   
+   
+    background-color: lightcoral;
+    display:flex ;
+    justify-content: space-evenly;
+    
+    background-image: url("304658.jpg");
+     font-family: fantasy;
+    flex-wrap: wrap;
+    
+}
